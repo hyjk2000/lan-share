@@ -9,7 +9,6 @@
   "author": "James Shih",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.13.4",
     "serve-index": "^1.7.3"
   }
 }
