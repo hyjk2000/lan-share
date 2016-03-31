@@ -1,0 +1,15 @@
+{
+  "name": "lan-share",
+  "version": "1.0.0",
+  "description": "Share files via LAN",
+  "bin": {
+    "lan-share": "./lan-share.js"
+  },
+  "repository": "hyjk2000/lan-share",
+  "author": "James Shih",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "serve-index": "^1.7.3"
+  }
+}
