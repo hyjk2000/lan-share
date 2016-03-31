@@ -1,6 +1,6 @@
 {
   "name": "lan-share",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Share files via LAN",
   "bin": {
     "lan-share": "./lan-share.js"
@@ -9,6 +9,8 @@
   "author": "James Shih",
   "license": "MIT",
   "dependencies": {
-    "serve-index": "^1.7.3"
+    "finalhandler": "^0.4.1",
+    "serve-index": "^1.7.3",
+    "serve-static": "^1.10.2"
   }
 }
