@@ -9,7 +9,7 @@
   "author": "James Shih",
   "license": "MIT",
   "dependencies": {
-    "finalhandler": "^0.4.1",
+    "finalhandler": "^1.0.6",
     "serve-index": "^1.7.3",
     "serve-static": "^1.10.2"
   }
