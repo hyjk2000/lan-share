@@ -1,5 +1,7 @@
 # lan-share
 
+❌ DEPRECATED - use [http-server](https://github.com/http-party/http-server) or [serve](https://github.com/vercel/serve) instead
+
 Share files via LAN.
 
 ## Usage
